@@ -24,7 +24,6 @@
         // URL where the user can learn more about the plugin
         "url": "",
 
-        "licenseInfo": "Apache Software License",
-        "kk": "kk"
+        "licenseInfo": "Apache Software License"
     }
 }
